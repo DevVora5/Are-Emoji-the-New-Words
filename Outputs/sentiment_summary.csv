@@ -1,0 +1,2 @@
+query,date,average_compound,highest_likes,lowest_likes,highest_retweets,lowest_retweets,tweet_count,average_likes,average_retweets,avg_compound_with_emojis,avg_compound_without_emojis,avg_emoji_count,emoji_0_count,emoji_1_count,emoji_2_count,emoji_3_count,emoji_4_count,emoji_more_than_4_count
+sample_data,27-02-2025,0.4697,20,0,5,0,7,6.0,0.8571428571428571,0.0644,0.53725,0.14285714285714285,6,1,0,0,0,0

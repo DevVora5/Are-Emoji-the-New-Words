@@ -1,0 +1,8 @@
+emoji
+vaderSentiment
+configparser
+datetime
+csv
+os
+re
+logging

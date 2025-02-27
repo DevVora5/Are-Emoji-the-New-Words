@@ -1,0 +1,2 @@
+2024-12-12 18:09:24,769 - INFO - Sentiment analysis completed. Results saved to Outputs\output_sample_data.csv
+2024-12-12 18:09:24,769 - INFO - Query and summary appended to Outputs\sentiment_summary.csv
